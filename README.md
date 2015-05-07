@@ -1,5 +1,11 @@
-How to share data with a statistician
+> Hi! This is an edited copy of _The Leek group guide to data sharing_, by Jeff Leek and his group from Johns Hopkin's University. If you're interested in the original document, go check it in the _jtleek/datasharing_ repository on GitHub.  
+> Cheers,  
+> Felipe
+
+Guidelines for data sharing in the ORCS Lab
 ===========
+
+
 
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
 
