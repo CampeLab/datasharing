@@ -15,12 +15,15 @@ variability in one's data analysis. On the other hand, our research generally in
 What you should deliver
 ====================
 
-For maximum speed in the analysis this is the information you should send me:
+For maximum speed in the analysis this is the information you absolutely MUST send me:
 
-1. The raw data.
-2. A [tidy data set](http://vita.had.co.nz/papers/tidy-data.pdf) 
-3. A code book describing each variable and its values in the tidy data set.  
-4. An explicit and exact recipe you used to go from 1 -> 2,3 
+- (1) A [tidy data set](http://vita.had.co.nz/papers/tidy-data.pdf) 
+- (2) A code book describing each variable and its values in the tidy data set.  
+
+If there is any chance that the raw data might be useful, you should also send:
+
+- (3) The raw data
+- (4) An explicit and exact recipe you used to go from (3) -> (1), (2)
 
 Let's look at each part of the data package you will transfer. 
 
